@@ -7,7 +7,6 @@
 
 *Please replace the space inside the brackets with an **x** and fill out the ellipses if the following items apply:*
 
-- [ ] I've read and understood the [contribution guidelines](./CONTRIBUTING.md)
 - [ ] I've tested my changes against at least one of the following [Anki builds](https://apps.ankiweb.net/#download):
   - [ ] Latest standard Anki 2.1 binary build [required for Anki-compatible 2.1 add-ons]
   - [ ] Latest alternative Anki 2.1 binary build
